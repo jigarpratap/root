@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Date</title>
+    <script>
+       function getDate(){
+           let x=new Date();
+           let day=x.getDay();
+           let month=x.getMonth()+1;
+           let year=x.getFullYear();
+           var display=`Day: ${day}  Month: ${month}   Year: ${year}`;
+           document.getElementById("demo").innerHTML=display;
+       }
+    </script>
+</head>
+<body>
+        <h1>Session 3</h1>
+        <button onclick="getDate()">Get Date</button>
+        <p id="demo"></p>
+</body>
+</html>

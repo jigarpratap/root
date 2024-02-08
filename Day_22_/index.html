@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shooping Cart</title>
+    <script>
+        function validationFrom(){
+            var x=document.getElementsByClassName("item");
+            var array=new Array();
+            for(let i=0;i<x.length;i++){
+                 var v=x[i].value;
+                 if(isNaN(v)|| v<0){
+                    alert(`Invalid quantity is entered for the ${x[i].getAttribute('name')}`)
+                    return false;
+                 } 
+                
+                 var l=`${x[i].getAttribute('name')} : ${v}`;
+                 array.push(l);
+
+            }
+            alert("Your proceed with the checkout process");
+            document.getElementById('demo').innerHTML=array;
+            return true;
+
+        }
+    </script>
+</head>
+<body style="background-color: antiquewhite;">
+    <form action="" onsubmit="return validationFrom()" id="form" style="text-align: center; margin-top:100px; background-color: bisque; border-radius: 20px;" >
+       <h1>Welcome to Shoping Cart</h1>
+       <label for="'item-1" name="item-1">Item-1:</label>
+       <input type="number" name="item-1" class="item" id="item-1" placeholder="Enter the Quantity ">
+       <br>
+       <label for="item-2" name="item-2" >item-2:</label>
+       <input type="number" name="item-2" class="item" id="item-2" placeholder="Enter the Quantity">
+       <br>
+       <button type="submit" value="Submit">Submit</button>
+    </form>   
+    <p id="demo"></p>
+</body>
+</html>

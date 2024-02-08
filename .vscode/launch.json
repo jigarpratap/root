@@ -1,0 +1,496 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DemojpaApplication",
+            "request": "launch",
+            "mainClass": "com.jpa.demojpa.DemojpaApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "func",
+            "request": "launch",
+            "mainClass": "func",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "jdbcdemo1",
+            "request": "launch",
+            "mainClass": "JDBC.jdbcdemo1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "JavaBasic.practice",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "JavaBasic.Array",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "lispr",
+            "request": "launch",
+            "mainClass": "basicPractice.lispr",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "armsSrong",
+            "request": "launch",
+            "mainClass": "basicPractice.armsSrong",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "pali",
+            "request": "launch",
+            "mainClass": "basicPractice.pali",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "basicPractice.prime",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "fibo",
+            "request": "launch",
+            "mainClass": "basicPractice.fibo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "exception20ques",
+            "request": "launch",
+            "mainClass": "Exceptions.exception20ques",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "exceptionJava",
+            "request": "launch",
+            "mainClass": "Exceptions.exceptionJava",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "staticsss",
+            "request": "launch",
+            "mainClass": "staticsss",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorExample",
+            "request": "launch",
+            "mainClass": "Collections.ComparatorExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "comparaableExample",
+            "request": "launch",
+            "mainClass": "Collections.comparaableExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "treeMap",
+            "request": "launch",
+            "mainClass": "Collections.treeMap",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetExample",
+            "request": "launch",
+            "mainClass": "Collections.TreeSetExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashsetExample2",
+            "request": "launch",
+            "mainClass": "Collections.HashsetExample2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashSetExample",
+            "request": "launch",
+            "mainClass": "Collections.HashSetExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Customexception",
+            "request": "launch",
+            "mainClass": "Exceptions.Customexception",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "exception2",
+            "request": "launch",
+            "mainClass": "Exceptions.exception2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionImplemention",
+            "request": "launch",
+            "mainClass": "Exceptions.ExceptionImplemention",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ClassBasedLinked",
+            "request": "launch",
+            "mainClass": "Collections.ClassBasedLinked",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "LinkedImplemention",
+            "request": "launch",
+            "mainClass": "Collections.LinkedImplemention",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "implementionIterator",
+            "request": "launch",
+            "mainClass": "Collections.implementionIterator",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ListImplementation",
+            "request": "launch",
+            "mainClass": "Collections.ListImplementation",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Wrapper",
+            "request": "launch",
+            "mainClass": "Wrapper.Wrapper",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceImp",
+            "request": "launch",
+            "mainClass": "Inheritance.InterfaceImp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Inheritance.Bank",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "OverrideException",
+            "request": "launch",
+            "mainClass": "Inheritance.OverrideException",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "overriding",
+            "request": "launch",
+            "mainClass": "Inheritance.overriding",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "mutilevel",
+            "request": "launch",
+            "mainClass": "Inheritance.mutilevel",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Inherit2",
+            "request": "launch",
+            "mainClass": "Inheritance.Inherit2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Inherit1",
+            "request": "launch",
+            "mainClass": "Inheritance.Inherit1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "typecastInoverloading",
+            "request": "launch",
+            "mainClass": "oops.typecastInoverloading",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "overloading",
+            "request": "launch",
+            "mainClass": "oops.overloading",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCopy",
+            "request": "launch",
+            "mainClass": "oops.ArrayCopy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "JavaBasic.duplicate",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "staticmain",
+            "request": "launch",
+            "mainClass": "oops.staticmain",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "student_use",
+            "request": "launch",
+            "mainClass": "oops.student_use",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Oops2",
+            "request": "launch",
+            "mainClass": "oops.Oops2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Oops1",
+            "request": "launch",
+            "mainClass": "oops.Oops1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "sum2Darray",
+            "request": "launch",
+            "mainClass": "JavaTrack.sum2Darray",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "compare2Darray",
+            "request": "launch",
+            "mainClass": "JavaTrack.compare2Darray",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "multiArayy",
+            "request": "launch",
+            "mainClass": "JavaTrack.multiArayy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "JavaTrack.Array",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "StringFormat",
+            "request": "launch",
+            "mainClass": "JavaTrack.StringFormat",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "greatest",
+            "request": "launch",
+            "mainClass": "JavaTrack.greatest",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "JavaPractice.array",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "StringFormat",
+            "request": "launch",
+            "mainClass": "StringFormat",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": ""
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoprojectApplication<demoproject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.ltijava.demoproject.DemoprojectApplication",
+            "projectName": "demoproject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PostApplication<post>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.postmapping.post.PostApplication",
+            "projectName": "post",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BlogdetailsApplication<blogdetails>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.blog.blogdetails.BlogdetailsApplication",
+            "projectName": "blogdetails",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Day10demoApplication<day10demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.day10.day10demo.Day10demoApplication",
+            "projectName": "day10demo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JpapracticeApplication<jpapractice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jpa.jpapractice.JpapracticeApplication",
+            "projectName": "jpapractice",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Session2day10Application<session2day10>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.day10session2.session2day10.Session2day10Application",
+            "projectName": "session2day10",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SinglemappingApplication<singlemapping>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mapping.singlemapping.SinglemappingApplication",
+            "projectName": "singlemapping",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ManytooneApplication<manytoone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.manytoone.manytoone.ManytooneApplication",
+            "projectName": "manytoone",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-NexttryforjapApplication<nexttryforjap>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.examplejpa.nexttryforjap.NexttryforjapApplication",
+            "projectName": "nexttryforjap",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Demoday12Application<demoday12>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.day12.demoday12.Demoday12Application",
+            "projectName": "demoday12",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
